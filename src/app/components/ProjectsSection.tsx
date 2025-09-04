@@ -1,6 +1,5 @@
 "use client";
 import { useEffect } from "react";
-import "aos/dist/aos.css";
 
 export default function ProjectsSection() {
 
@@ -45,4 +44,5 @@ export default function ProjectsSection() {
     </section>
   );
 }
+
 
