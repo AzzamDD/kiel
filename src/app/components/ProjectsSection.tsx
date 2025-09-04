@@ -3,9 +3,6 @@ import { useEffect } from "react";
 import "aos/dist/aos.css";
 
 export default function ProjectsSection() {
-  useEffect(() => {
-    
-  }, []);
 
   const projects = [
     {
@@ -48,3 +45,4 @@ export default function ProjectsSection() {
     </section>
   );
 }
+
